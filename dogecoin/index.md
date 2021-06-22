@@ -1,4 +1,4 @@
-[Return to homepage](./).
+[Return to homepage](../).
 
 # Dogecoin Blockchain Download
 
