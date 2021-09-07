@@ -14,4 +14,4 @@ Ensure all files are in the same directory. Check the Bitcoin-Blockchain-DATE.ex
 
 ## Configure Pruned Mode
 
-Bitcoin Portable can be configured for pruned mode by creating an ANSI text file called [Bitcoin.conf](Bitcoin.conf) in your BitcoinPortable\Data\Bitcoin directory with a single line reading prune=2200 and nothing else. For a local Bitcoin client, download the file to %APPDATA%\Bitcoin, usually located at C:\Users\YourUsername\AppData\Roaming\Bitcoin
+Bitcoin Portable can be configured for pruned mode by creating an ANSI text file called [bitcoin.conf](bitcoin.conf) in your BitcoinPortable\Data\Bitcoin directory with a single line reading prune=2200 and nothing else. For a local Bitcoin client, download the file to %APPDATA%\Bitcoin, usually located at C:\Users\YourUsername\AppData\Roaming\Bitcoin
