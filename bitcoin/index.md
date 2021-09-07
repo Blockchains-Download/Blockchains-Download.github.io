@@ -6,7 +6,7 @@ Downloadable blockchain for Bitcoin Core Portable and locally installed Bitcoin 
 
 ## How To Download
 
-Go to the [Bitcoin Blockchain Releases page](https://github.com/Blockchains-Download/Bitcoin/releases) and download the files for the most recent release. It will be files named similarly to Bitcoin-Blockchain-DATE.exe, Bitcoin-Blockchain-DATE.7z.001, Bitcoin-Blockchain-DATE.7z.002, etc.
+Go to the [Bitcoin Blockchain Releases page](https://github.com/Blockchains-Download/Bitcoin/releases) and download the 4 files for the most recent release. It will be files named Bitcoin-Blockchain-DATE.exe, Bitcoin-Blockchain-DATE.7z.001, Bitcoin-Blockchain-DATE.7z.002, Bitcoin-Blockchain-DATE.7z.003.
  
 ## How To Extract
 
