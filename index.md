@@ -12,6 +12,10 @@ For Bitcoin, visit the [Bitcoin blockchain page](/bitcoin).
 
 For Dogecoin, visit the [Dogecoin blockchain page](/dogecoin).
 
+# Litecoin
+
+For Litecoin, visit the [Litecoin blockchain page](/litecoin).
+
 # Others
 
 Coming soon...
