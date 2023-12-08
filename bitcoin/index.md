@@ -2,7 +2,7 @@
 
 # Bitcoin Blockchain Download
 
-Downloadable blockchain for Bitcoin Core Portable and locally installed Bitcoin pruned to 2.2GB
+Downloadable blockchain for Bitcoin Core Portable and locally installed Bitcoin pruned to about 9.3GB
 
 ## How To Download
 
