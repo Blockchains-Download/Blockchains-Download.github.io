@@ -17,5 +17,7 @@ Ensure all 3 files are in the same directory. Check the Litecoin-Blockchain-DATE
 Litecoin Portable can be configured for pruned mode by creating an ANSI text file called [litecoin.conf](litecoin.conf) in your LitecoinPortable\Data\Litecoin directory. For a local Litecoin client, download the file to %APPDATA%\Litecoin, usually located at C:\Users\YourUsername\AppData\Roaming\Litecoin. The file should contain:
 
 prune=550
+
 blockfilterindex=0
+
 peerblockfilters=0
